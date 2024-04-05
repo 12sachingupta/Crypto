@@ -1,40 +1,70 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-  "name": "Crypto portfolio: Blockchain & Crypto tracker",
-  "description": "Your Real-Time (on-chain) Cryptocurrency, NFT-explorer and wallet tracker.",
-  "version": "2.0.14",
   "manifest_version": 3,
+  "name": "Wigwam — Web3 Wallet",
+  "version": "2.2.3",
   "icons": {
-    "16": "images/CryptoExplorer_logo_128.png",
-    "48": "images/CryptoExplorer_logo_128.png",
-    "128": "images/CryptoExplorer_logo_128.png"
+    "16": "icons/16.png",
+    "48": "icons/128.png",
+    "128": "icons/512.png"
   },
+  "description": "__MSG_appDesc__",
+  "homepage_url": "https://wigwam.app",
+  "short_name": "Wigwam",
+  "permissions": [
+    "tabs",
+    "storage",
+    "clipboardWrite",
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://localhost:8545/",
+    "file://*/*",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'; frame-ancestors 'none';"
+  },
+  "author": "https://wigwam.app",
+  "minimum_chrome_version": "88",
+  "default_locale": "en",
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Crypto portfolio pro: Blockchain & Crypto tracker",
-    "default_icon": "images/CryptoExplorer_logo_128.png"
+    "default_title": "Wigwam",
+    "default_icon": {
+      "16": "icons/16.png",
+      "48": "icons/128.png",
+      "128": "icons/512.png"
+    },
+    "chrome_style": false
   },
-  "host_permissions": [
-    "https://api.etherscan.io/",
-    "https://etherscan.io/"
-  ],
-  "permissions": [
-    "storage",
-    "alarms",
-    "notifications"
-  ],
   "background": {
-    "service_worker": "service_worker.js",
-    "type": "module"
+    "service_worker": "sw.js"
   },
-  "commands": {
-    "_execute_action": {
-      "suggested_key": {
-        "default": "Ctrl+Shift+K",
-        "mac": "Command+Shift+K"
-      },
-      "description": "Opens Explorer"
+  "content_scripts": [
+    {
+      "matches": [
+        "file://*/*",
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "scripts/content.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "https://wigwam.app/*"
+      ],
+      "js": [
+        "scripts/version.js"
+      ],
+      "run_at": "document_start"
     }
-  }
+  ]
 }
