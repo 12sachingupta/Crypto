@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_wigwam_app=globalThis.webpackChunk_wigwam_app||[]).push([[563],{60563:a=>{a.exports=[]}}]);
