@@ -43,6 +43,3 @@ Feel free to reach out to us:
 Let's make CryptoTrack the go-to platform for all things crypto!
 
 Happy tracking! 🌟
-```
-
-This Markdown README is designed to be visually appealing and dynamic, inviting users to explore CryptoTrack's features and functionalities.
