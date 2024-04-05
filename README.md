@@ -1,3 +1,48 @@
+
+# Webwigam3.0: Reliable and Secure Self-Custody Crypto Wallet
+
+Welcome to Webwigm3.0, your feature-rich crypto wallet for the Web3 ecosystem! 🏕
+
+ is an open-source self-custodial crypto wallet designed for Ethereum and all EVM (Ethereum Virtual Machine) compatible blockchains including Polygon, BNB Smart Chain, Arbitrum, and more.
+
+## Features
+
+- **Secure**: Your assets are securely stored in your own custody, ensuring maximum security.
+- **Multi-Network Support**: Explore various blockchain networks including Ethereum, Polygon, BNB Smart Chain, and Arbitrum.
+- **DeFi, GameFi, and NFTs**: Seamlessly access decentralized finance (DeFi), gaming finance (GameFi), and non-fungible tokens (NFTs) .
+- **User-Friendly Interface**: Enjoy a modern and intuitive interface for effortless navigation and interaction.
+
+
+## Getting Started
+
+To get started with Wigwam, simply follow these steps:
+
+2. **Create an Account**: Set up your wallet by following the on-screen instructions.
+3. **Backup Your Wallet**: Securely backup your wallet's recovery phrase to ensure access to your funds.
+4. **Explore**: Start exploring DeFi, GameFi, NFTs, and more on the supported blockchain networks.
+
+## Contributing
+
+Web3.0 is an open-source project 
+
+## Support
+
+
+## License
+
+Wigwam is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/236278af-4985-428e-a4d0-cc2f9c8fec75)
 ![Screenshot 2024-04-05 162343](https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/ec16016a-df27-4dcd-bebd-bc884a8a1545)
 
