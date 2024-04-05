@@ -1,3 +1,7 @@
+![image](https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/236278af-4985-428e-a4d0-cc2f9c8fec75)
+![Screenshot 2024-04-05 162343](https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/ec16016a-df27-4dcd-bebd-bc884a8a1545)
+
+
 
 # Welcome to CryptoTrack: Your Real-Time Cryptocurrency & NFT Explorer 🚀
 
