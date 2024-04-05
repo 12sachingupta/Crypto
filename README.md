@@ -28,9 +28,7 @@ Web3.0 is an open-source project
 ## Support
 
 
-## License
 
-Wigwam is licensed under the [MIT License](LICENSE).
 
 
 
