@@ -3,6 +3,11 @@
 
 
 
+https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/06422659-c31d-4bc9-b748-603f20b67a0a
+
+
+
+
 # Welcome to CryptoTracking Extension: Your Real-Time Cryptocurrency & NFT Explorer 🚀
 
 Hey there, Crypto Enthusiasts!
