@@ -1,0 +1,127 @@
+{
+  "add": {
+    "message": "Add"
+  },
+  "addWallet": {
+    "message": "Add Wallet"
+  },
+  "appDesc": {
+    "message": "Reliable and secure self-custody crypto wallet for Ethereum and all EVM blockchains"
+  },
+  "back": {
+    "message": "Back"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "cannotSignForWallet": {
+    "message": "Cannot sign for this account"
+  },
+  "continue": {
+    "message": "Continue"
+  },
+  "failedToAddSeedPhrase": {
+    "message": "Failed to add Seed Phrase"
+  },
+  "failedToAddWallets": {
+    "message": "Failed to add new wallets"
+  },
+  "failedToChangePassword": {
+    "message": "Failed to change password"
+  },
+  "failedToDeleteWallets": {
+    "message": "Failed to delete wallet"
+  },
+  "failedToFetchPrivateKey": {
+    "message": "Failed to fetch private key"
+  },
+  "failedToFetchPublicKey": {
+    "message": "Failed to fetch public key"
+  },
+  "failedToFetchSeedPhrase": {
+    "message": "Failed to fetch seed phrase"
+  },
+  "failedToSetupWallet": {
+    "message": "Failed to setup wallet"
+  },
+  "failedToSign": {
+    "message": "Failed to sign"
+  },
+  "failedToUnlockWallet": {
+    "message": "Failed to unlock wallet"
+  },
+  "failedToUpdateWalletName": {
+    "message": "Failed to update wallet name"
+  },
+  "initial": {
+    "message": "Initial"
+  },
+  "invalidAddress": {
+    "message": "Invalid address"
+  },
+  "invalidDerivationPath": {
+    "message": "Derivation path is invalid"
+  },
+  "invalidName": {
+    "message": "Invalid name"
+  },
+  "invalidPassword": {
+    "message": "Invalid password"
+  },
+  "invalidPrivateKey": {
+    "message": "Invalid private key"
+  },
+  "invalidPublicKey": {
+    "message": "Invalid public key"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "letsBegin": {
+    "message": "Let's begin"
+  },
+  "notAllowed": {
+    "message": "Not allowed"
+  },
+  "profile": {
+    "message": "Profile"
+  },
+  "profileBlockedFor": {
+    "message": "Profile blocked for"
+  },
+  "profiles": {
+    "message": "Profiles"
+  },
+  "seedPhraseAlreadyExists": {
+    "message": "Seed phrase already exists"
+  },
+  "seedPhraseIsNotValid": {
+    "message": "Seed phrase in not valid"
+  },
+  "seedPhraseLanguageNotSupported": {
+    "message": "Seed phrase language not supported"
+  },
+  "seedPhraseNotEstablished": {
+    "message": "Seed phrase has not yet been established"
+  },
+  "wallet": {
+    "message": "Wallet"
+  },
+  "walletAlreadyExists": {
+    "message": "Wallet with the same address already exists"
+  },
+  "walletLocked": {
+    "message": "Wallet locked"
+  },
+  "walletNameAlreadyExists": {
+    "message": "Wallet with the same name already exists"
+  },
+  "welcomeTo": {
+    "message": "Welcome to $target$",
+    "placeholders": {
+      "target": {
+        "content": "$1"
+      }
+    }
+  }
+}
