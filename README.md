@@ -1,6 +1,10 @@
 ![image](https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/236278af-4985-428e-a4d0-cc2f9c8fec75)
 ![Screenshot 2024-04-05 162343](https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/ec16016a-df27-4dcd-bebd-bc884a8a1545)
 
+https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/ead6fe02-e189-44ba-bd8d-85311cb3eebe
+
+
+
 
 
 https://github.com/12sachingupta/Crypto-wallet-extension/assets/104207550/06422659-c31d-4bc9-b748-603f20b67a0a
