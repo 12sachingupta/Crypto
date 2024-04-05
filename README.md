@@ -3,15 +3,15 @@
 
 
 
-# Welcome to CryptoTrack: Your Real-Time Cryptocurrency & NFT Explorer 🚀
+# Welcome to CryptoTracking Extension: Your Real-Time Cryptocurrency & NFT Explorer 🚀
 
 Hey there, Crypto Enthusiasts!
 
-CryptoTrack is here to bring you an immersive experience in the world of cryptocurrencies and NFTs, right from your browser. Dive into real-time data, personalized portfolio management, and stay ahead of the curve with our intuitive features.
+CryptoTracking Extension is here to bring you an immersive experience in the world of cryptocurrencies and NFTs, right from your browser. Dive into real-time data, personalized portfolio management, and stay ahead of the curve with our intuitive features.
 
 ## Introduction
 
-Born out of the need to keep pace with the ever-evolving landscape of digital assets, CryptoTrack is a free tool designed to cater to both seasoned traders and curious enthusiasts alike.
+Born out of the need to keep pace with the ever-evolving landscape of digital assets, CryptoTracking Extension is a free tool designed to cater to both seasoned traders and curious enthusiasts alike.
 
 ## Key Features
 
